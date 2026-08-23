@@ -30,6 +30,12 @@ lifetime value patterns, validated across Power BI and Tableau for executive rep
 
 Power BI dashboard and business case analyzing 8 marketing channels on ROI, CAC, and CLV:CAC, with a budget reallocation model projecting ~₹2.7L net revenue gain from shifting spend to the top-performing channel. `Power BI` `DAX` `Excel`
 
+### 🏦 [Digital Lending — Loan Book & NPA Risk Analysis](https://github.com/BhumikaSrivastava/project-bhumi/blob/main/digital-lending-npa-analysis)
+
+Cleaned and analyzed 233,000+ real NBFC loan records in SQL, deriving NPA/DPD risk
+buckets and building a GNPA%/PAR60% reporting model in Excel — found a 750+ credit
+score cuts default risk almost in half (14.7% vs. 26.1% for sub-600 scores). `SQL` `Excel`
+
 ---
 
 ## Core Skills
