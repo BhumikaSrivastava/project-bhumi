@@ -1,0 +1,301 @@
+loan_id,disbursed_amount,asset_cost,ltv,branch_id,state_id,employment_type,disbursal_date,bureau_score,bureau_score_desc,pri_overdue_accts,sec_overdue_accts,total_overdue_accts,delinquent_accts_6m,bureau_inquiries,loan_default,dpd_bucket
+418631,35939.0,62876.0,58.85,48,5,Salaried,01-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+528553,50891.0,61868.0,85.0,3,1,Salaried,22-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+591183,52094.0,73020.0,76.01,78,4,Salaried,20-10-18,792,B-Very Low Risk,0,0,0,0,0,0,0 - Current
+648273,59313.0,72841.0,82.92,18,4,Self employed,31-10-18,640,G-Low Risk,0,0,0,0,0,1,1-30 DPD (proxy)
+556496,59259.0,71601.0,83.8,16,14,Salaried,03-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+509763,47993.0,62730.0,80.5,61,6,Self employed,16-09-18,763,B-Very Low Risk,0,0,0,0,0,0,0 - Current
+462426,55013.0,72321.0,78.82,251,13,Self employed,24-08-18,738,C-Very Low Risk,0,0,0,0,3,0,0 - Current
+623747,67397.0,103500.0,68.6,1,3,Self employed,26-10-18,738,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+595715,82686.0,147000.0,57.14,2,4,Self employed,21-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+439182,56259.0,68271.0,84.96,16,14,Salaried,14-08-18,16,Not Scored: No Activity seen on the customer (Inactive),0,0,0,0,0,1,1-30 DPD (proxy)
+483465,37541.0,68317.0,58.55,74,4,Salaried,31-08-18,621,H-Medium Risk,1,0,1,0,0,1,31-60 DPD (proxy)
+604990,59013.0,72074.0,83.25,146,14,Not Captured,23-10-18,774,B-Very Low Risk,0,0,0,0,0,1,1-30 DPD (proxy)
+439845,45849.0,66040.0,71.17,20,5,Self employed,16-08-18,825,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+546198,45349.0,76513.0,61.43,11,3,Self employed,28-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+462743,44149.0,70353.0,65.38,68,6,Salaried,24-08-18,0,No Bureau History Available,0,0,0,0,1,0,0 - Current
+636469,44849.0,73943.0,62.89,17,17,Not Captured,29-10-18,516,K-High Risk,1,0,1,0,0,1,31-60 DPD (proxy)
+589296,61713.0,70474.0,88.69,162,4,Self employed,19-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+634004,61368.0,74300.0,85.0,1,3,Self employed,28-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+603222,69317.0,106152.0,66.89,251,13,Self employed,23-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+548327,59013.0,66814.0,89.8,162,4,Salaried,29-09-18,825,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+524216,47549.0,73020.0,66.69,2,4,Self employed,21-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+545533,26029.0,69646.0,38.05,62,11,Self employed,28-09-18,825,A-Very Low Risk,0,0,0,0,0,1,1-30 DPD (proxy)
+518131,49228.0,67937.0,77.28,3,1,Self employed,19-09-18,726,D-Very Low Risk,0,0,0,0,0,0,0 - Current
+642781,61167.0,71804.0,89.13,1,3,Self employed,30-10-18,825,A-Very Low Risk,0,0,0,0,1,0,0 - Current
+600974,52303.0,78248.0,67.73,34,6,Self employed,22-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+422236,60913.0,69317.0,89.44,135,4,Salaried,04-08-18,774,B-Very Low Risk,0,0,0,0,0,0,0 - Current
+581085,58259.0,65750.0,89.73,136,8,Salaried,16-10-18,811,A-Very Low Risk,0,0,0,0,1,0,0 - Current
+529846,34639.0,69735.0,51.05,5,9,Salaried,23-09-18,16,Not Scored: No Activity seen on the customer (Inactive),0,0,0,0,0,0,0 - Current
+593146,55925.0,68115.0,84.42,18,4,Self employed,21-10-18,707,D-Very Low Risk,0,0,0,0,0,1,1-30 DPD (proxy)
+562360,63294.0,79803.0,80.71,152,3,Self employed,08-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+512892,57559.0,71986.0,81.82,13,8,Self employed,17-09-18,604,H-Medium Risk,1,0,1,0,0,0,0 - Current
+607653,62213.0,78730.0,80.02,16,14,Salaried,23-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+568762,66882.0,94576.0,72.96,11,3,Self employed,11-10-18,657,F-Low Risk,0,0,0,0,0,0,0 - Current
+440381,48349.0,65690.0,74.59,2,4,Self employed,16-08-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+560052,47348.0,66740.0,71.92,20,5,Salaried,06-10-18,15,Not Scored: Sufficient History Not Available,0,0,0,0,0,0,0 - Current
+642425,61447.0,79656.0,79.09,251,13,Self employed,30-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+619090,40394.0,75377.0,55.72,120,12,Salaried,25-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+652822,52303.0,67870.0,78.09,48,5,Self employed,31-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+536413,47349.0,77654.0,61.81,42,3,Self employed,25-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+422510,58013.0,86343.0,69.49,16,14,Salaried,06-08-18,825,A-Very Low Risk,0,0,0,1,1,1,1-30 DPD (proxy)
+509849,32384.0,65652.0,51.03,67,6,Self employed,16-09-18,825,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+651278,53759.0,71505.0,77.62,63,10,Salaried,31-10-18,486,K-High Risk,1,0,1,1,2,1,31-60 DPD (proxy)
+428699,32884.0,42490.0,79.78,162,4,Self employed,09-08-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+472046,59953.0,74150.0,84.96,74,4,Salaried,29-08-18,825,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+452308,61167.0,73058.0,87.6,142,16,Salaried,21-08-18,615,H-Medium Risk,0,0,0,0,0,0,0 - Current
+448100,53971.0,69445.0,82.22,36,13,Self employed,18-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+641165,56659.0,68957.0,84.11,67,6,Self employed,30-10-18,0,No Bureau History Available,0,0,0,0,7,1,1-30 DPD (proxy)
+615794,52403.0,73400.0,72.75,135,4,Salaried,24-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+420781,44625.0,57718.0,79.66,85,4,Not Captured,03-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+457587,43394.0,59854.0,73.51,3,1,Self employed,23-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+536034,47673.0,66501.0,76.69,5,9,Self employed,25-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+503740,50078.0,61896.0,84.01,3,1,Salaried,14-09-18,825,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+649249,54259.0,110186.0,50.82,11,3,Self employed,31-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+541075,49478.0,68260.0,74.71,67,6,Self employed,27-09-18,708,D-Very Low Risk,0,0,0,1,0,0,0 - Current
+430532,95899.0,161885.0,61.77,103,7,Salaried,10-08-18,654,F-Low Risk,0,0,0,0,0,0,0 - Current
+625013,52878.0,69700.0,77.19,136,8,Salaried,26-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+534187,60939.0,77500.0,79.99,2,4,Salaried,25-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+425843,35401.0,62314.0,59.38,20,5,Salaried,07-08-18,738,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+520992,44504.0,63904.0,75.11,70,4,Salaried,20-09-18,708,D-Very Low Risk,0,0,0,0,0,0,0 - Current
+419693,47949.0,64075.0,76.32,15,11,Self employed,03-08-18,753,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+489035,77051.0,112051.0,70.37,8,3,Self employed,04-09-18,680,F-Low Risk,0,0,0,0,0,0,0 - Current
+453635,42860.0,55716.0,84.36,74,4,Salaried,21-08-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+536022,55259.0,72489.0,77.25,67,6,Self employed,25-09-18,738,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+601277,37439.0,63345.0,60.78,130,6,Self employed,22-10-18,738,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+471776,49829.0,66251.0,78.11,36,13,Self employed,29-08-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+498397,41519.0,74843.0,60.13,103,7,Salaried,10-09-18,763,B-Very Low Risk,0,0,0,0,0,0,0 - Current
+539074,49349.0,75075.0,66.6,16,14,Salaried,26-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+613779,57559.0,71042.0,84.46,138,9,Salaried,24-10-18,652,F-Low Risk,0,0,0,0,0,0,0 - Current
+454255,43937.0,68042.0,67.0,65,13,Salaried,21-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+622409,58259.0,74795.0,78.88,16,17,Salaried,26-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+622877,41394.0,73283.0,57.31,36,13,Salaried,26-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+483625,49722.0,88786.0,58.57,74,4,Salaried,31-08-18,709,D-Very Low Risk,0,0,0,0,0,0,0 - Current
+451915,42394.0,65649.0,67.02,11,3,Self employed,21-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+622382,79186.0,95500.0,84.82,135,4,Salaried,26-10-18,0,No Bureau History Available,0,0,0,0,2,0,0 - Current
+542964,53078.0,74882.0,73.45,36,13,Self employed,27-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+575763,49376.0,65940.0,80.98,77,4,Self employed,13-10-18,0,No Bureau History Available,0,0,0,0,2,0,0 - Current
+558820,36269.0,61791.0,63.12,3,1,Self employed,05-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+577880,64213.0,77606.0,83.76,16,14,Self employed,14-10-18,605,H-Medium Risk,2,0,2,2,1,1,61-90 DPD (proxy)
+572339,61063.0,80073.0,81.18,5,9,Self employed,12-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+431154,46849.0,60086.0,79.89,136,8,Salaried,10-08-18,300,M-Very High Risk,1,1,2,2,0,1,61-90 DPD (proxy)
+527782,54559.0,93268.0,60.36,36,13,Self employed,22-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+632734,49003.0,71100.0,71.31,16,17,Salaried,27-10-18,0,No Bureau History Available,0,0,0,0,5,0,0 - Current
+505644,56513.0,78278.0,74.09,48,5,Self employed,14-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+588191,70873.0,102052.0,73.49,160,1,Salaried,19-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+493731,58513.0,70662.0,84.91,19,4,Self employed,07-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+526982,50039.0,74519.0,71.12,7,3,Salaried,21-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+458712,51548.0,68552.0,78.0,65,13,Self employed,23-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+449472,41194.0,62480.0,68.5,65,13,Self employed,20-08-18,774,B-Very Low Risk,0,0,0,0,0,0,0 - Current
+494798,60747.0,100775.0,62.32,251,13,Self employed,07-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+578375,60347.0,82090.0,75.41,147,2,Salaried,15-10-18,17,Not Scored: Not Enough Info available on the customer,0,0,0,0,0,1,1-30 DPD (proxy)
+618057,26061.0,73219.0,38.24,20,5,Self employed,25-10-18,0,No Bureau History Available,0,1,1,0,0,0,0 - Current
+550889,55259.0,67993.0,82.36,136,8,Salaried,30-09-18,575,I-Medium Risk,0,0,0,0,0,0,0 - Current
+585138,61713.0,74946.0,84.06,19,4,Salaried,17-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+444937,64782.0,73955.0,89.92,67,6,Salaried,17-08-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+427407,39394.0,73840.0,55.53,67,6,Self employed,08-08-18,783,B-Very Low Risk,0,0,0,0,0,0,0 - Current
+494085,47949.0,67530.0,73.45,10,3,Self employed,07-09-18,407,K-High Risk,1,0,1,1,0,1,31-60 DPD (proxy)
+471777,25529.0,63137.0,42.76,103,7,Self employed,29-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+588465,46649.0,60346.0,80.04,74,4,Self employed,19-10-18,598,I-Medium Risk,1,0,1,0,0,0,0 - Current
+591682,56013.0,78946.0,73.47,152,3,Self employed,20-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+506815,48849.0,80500.0,62.11,13,8,Self employed,14-09-18,732,D-Very Low Risk,1,0,1,0,0,0,0 - Current
+535531,53549.0,72057.0,79.1,160,16,Salaried,25-09-18,706,D-Very Low Risk,0,0,0,0,0,0,0 - Current
+570485,35275.0,67470.0,54.1,10,3,Self employed,11-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+513269,41844.0,64702.0,66.38,160,1,Salaried,17-09-18,769,B-Very Low Risk,0,0,0,0,0,0,0 - Current
+615287,50803.0,64478.0,79.87,79,18,Self employed,24-10-18,666,F-Low Risk,1,0,1,2,0,1,31-60 DPD (proxy)
+646078,61947.0,75157.0,83.82,255,3,Self employed,31-10-18,751,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+424870,67782.0,89519.0,78.08,117,4,Self employed,07-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+589447,49703.0,70802.0,72.03,67,6,Self employed,19-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+519048,54759.0,69585.0,80.48,250,6,Self employed,19-09-18,706,D-Very Low Risk,0,0,0,0,0,0,0 - Current
+496060,43617.0,58075.0,79.9,105,6,Salaried,08-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+522120,42469.0,59343.0,77.52,74,4,Self employed,20-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+550081,64382.0,77715.0,84.93,63,10,Self employed,29-09-18,300,M-Very High Risk,1,0,1,0,0,0,0 - Current
+557974,60947.0,86650.0,72.71,152,3,Not Captured,04-10-18,825,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+620430,36339.0,75474.0,49.69,18,4,Salaried,25-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+421969,26541.0,66113.0,42.35,3,15,Salaried,04-08-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+566688,61213.0,74529.0,84.53,103,7,Salaried,10-10-18,707,D-Very Low Risk,0,0,0,0,0,0,0 - Current
+454103,48049.0,55770.0,87.86,64,9,Self employed,21-08-18,645,G-Low Risk,0,0,0,1,1,0,0 - Current
+527975,55523.0,72446.0,78.56,147,2,Self employed,22-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+454829,88355.0,101000.0,89.41,2,4,Salaried,22-08-18,785,B-Very Low Risk,0,0,0,0,0,0,0 - Current
+516042,67112.0,96230.0,71.94,48,5,Self employed,18-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+633768,92555.0,159355.0,59.62,152,3,Salaried,28-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+583454,50678.0,70002.0,73.71,117,4,Self employed,16-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+417670,42894.0,57923.0,77.69,68,6,Salaried,01-08-18,743,C-Very Low Risk,0,0,0,0,0,1,1-30 DPD (proxy)
+492992,33484.0,63204.0,55.38,103,7,Self employed,06-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+642567,58423.0,72115.0,84.86,250,6,Salaried,30-10-18,763,B-Very Low Risk,0,0,0,0,0,0,0 - Current
+444508,27529.0,56296.0,51.51,48,5,Self employed,17-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+519660,78986.0,95770.0,84.89,1,3,Self employed,19-09-18,657,F-Low Risk,0,0,0,0,0,0,0 - Current
+540858,57759.0,70201.0,84.76,146,14,Salaried,27-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+515334,71223.0,99249.0,73.4,16,14,Salaried,18-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+579609,52778.0,63600.0,84.83,15,11,Salaried,15-10-18,825,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+531310,56759.0,73535.0,78.19,19,4,Salaried,24-09-18,647,G-Low Risk,0,0,0,0,0,0,0 - Current
+494802,40210.0,88339.0,47.54,255,3,Self employed,07-09-18,527,J-High Risk,2,0,2,1,0,1,61-90 DPD (proxy)
+503521,53580.0,69507.0,78.16,72,11,Self employed,14-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+554419,56213.0,71204.0,81.74,65,13,Self employed,30-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+574900,65682.0,83632.0,83.7,1,3,Self employed,13-10-18,826,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+436189,57375.0,74865.0,81.0,36,13,Salaried,13-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+603451,52303.0,62150.0,85.28,34,6,Salaried,23-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+438718,55925.0,67372.0,89.06,162,4,Salaried,14-08-18,708,D-Very Low Risk,0,0,0,0,0,0,0 - Current
+553953,49908.0,69174.0,74.16,61,6,Self employed,30-09-18,825,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+523560,68817.0,99004.0,71.71,152,3,Self employed,20-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+470385,53513.0,69885.0,79.42,249,4,Salaried,28-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+420243,49803.0,61023.0,83.58,34,6,Self employed,03-08-18,572,I-Medium Risk,1,0,1,1,0,1,31-60 DPD (proxy)
+605424,52086.0,62745.0,87.02,19,4,Self employed,23-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+649024,60600.0,72253.0,84.96,2,4,Salaried,31-10-18,472,K-High Risk,1,0,1,0,1,0,0 - Current
+479837,52078.0,61000.0,88.52,68,6,Self employed,30-08-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+619853,61113.0,73262.0,85.99,64,9,Self employed,25-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+621516,64082.0,79507.0,82.76,251,13,Salaried,25-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+446556,44609.0,64012.0,74.99,5,9,Salaried,18-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+446064,54759.0,70761.0,79.14,5,9,Salaried,17-08-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+492548,59713.0,68200.0,89.44,138,9,Self employed,06-09-18,738,C-Very Low Risk,0,0,0,0,6,0,0 - Current
+425503,55353.0,91522.0,63.37,36,13,Self employed,07-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+555183,41393.0,70046.0,61.39,42,3,Salaried,03-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+483726,40394.0,60978.0,68.88,34,6,Self employed,31-08-18,737,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+637739,56209.0,68298.0,84.92,138,9,Self employed,29-10-18,300,M-Very High Risk,2,0,2,0,2,1,61-90 DPD (proxy)
+513981,62834.0,92202.0,69.41,64,9,Self employed,18-09-18,726,D-Very Low Risk,0,0,0,0,0,0,0 - Current
+517538,37275.0,52749.0,73.94,79,18,Self employed,19-09-18,763,B-Very Low Risk,0,0,0,0,0,0,0 - Current
+554356,60213.0,85358.0,72.64,11,3,Self employed,30-09-18,836,A-Very Low Risk,0,0,0,0,2,0,0 - Current
+653326,51228.0,67696.0,81.25,3,1,Self employed,31-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+502546,65169.0,79181.0,83.35,16,17,Self employed,12-09-18,737,C-Very Low Risk,0,0,0,0,0,1,1-30 DPD (proxy)
+639023,55509.0,69387.0,82.15,5,9,Self employed,29-10-18,825,A-Very Low Risk,0,0,0,0,0,1,1-30 DPD (proxy)
+508222,42610.0,69610.0,64.65,8,3,Salaried,15-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+420248,64882.0,91122.0,73.53,152,3,Salaried,03-08-18,300,M-Very High Risk,3,0,3,0,0,0,0 - Current
+496920,37539.0,63548.0,61.53,36,13,Self employed,08-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+531649,56913.0,66270.0,88.28,67,6,Self employed,24-09-18,14,Not Scored: Only a Guarantor,0,0,0,1,0,0,0 - Current
+529081,33701.0,76917.0,46.8,9,3,Self employed,23-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+616658,56853.0,69349.0,84.85,65,13,Self employed,25-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+510208,62109.0,67205.0,94.93,74,4,Salaried,16-09-18,666,F-Low Risk,1,0,1,1,0,0,0 - Current
+600583,74333.0,97254.0,79.48,260,8,Salaried,22-10-18,581,I-Medium Risk,2,0,2,1,0,0,0 - Current
+484180,51303.0,59084.0,89.7,79,18,Salaried,31-08-18,738,C-Very Low Risk,0,0,0,0,1,0,0 - Current
+439573,67169.0,101240.0,68.15,10,3,Self employed,14-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+443254,51803.0,61126.0,86.71,72,11,Salaried,17-08-18,735,D-Very Low Risk,0,0,0,0,0,0,0 - Current
+494917,58459.0,67081.0,89.0,15,11,Self employed,07-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+582810,59713.0,72000.0,84.72,73,16,Self employed,16-10-18,586,I-Medium Risk,0,0,0,0,0,0,0 - Current
+453069,49203.0,61015.0,83.09,67,6,Self employed,21-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+590804,58500.0,67933.0,88.32,63,10,Not Captured,20-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+420005,47545.0,55648.0,88.05,153,11,Salaried,03-08-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+538284,52078.0,63600.0,84.12,73,11,Salaried,26-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+632183,58358.0,73099.0,80.85,36,13,Self employed,27-10-18,300,M-Very High Risk,6,0,6,4,0,1,90+ DPD / NPA (proxy)
+556308,67417.0,76705.0,90.0,19,4,Self employed,03-10-18,825,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+528473,55843.0,68271.0,85.0,16,14,Salaried,22-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+605629,50803.0,68470.0,75.8,18,4,Salaried,23-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+541874,45869.0,74050.0,64.82,74,4,Self employed,27-09-18,740,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+603976,43745.0,76699.0,59.97,70,4,Salaried,23-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+529538,32772.0,69261.0,48.99,251,13,Self employed,23-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+613590,66169.0,97980.0,68.38,42,3,Self employed,24-10-18,738,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+565128,62063.0,92902.0,68.46,13,8,Salaried,09-10-18,300,M-Very High Risk,13,0,13,0,2,0,0 - Current
+445133,36939.0,70929.0,54.28,120,12,Self employed,17-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+436440,58759.0,69936.0,85.79,7,3,Self employed,13-08-18,819,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+544348,89645.0,162376.0,57.89,104,10,Self employed,28-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+612420,50803.0,70708.0,72.83,34,6,Self employed,24-10-18,610,H-Medium Risk,0,0,0,0,0,0,0 - Current
+641860,50078.0,94838.0,53.78,65,13,Self employed,30-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+554159,60947.0,84173.0,74.85,254,13,Self employed,30-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+653586,49585.0,63958.0,83.02,78,4,Salaried,31-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+555942,56617.0,68494.0,89.06,162,4,Self employed,03-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+620656,79093.0,106244.0,79.06,103,7,Self employed,25-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+558306,66882.0,82379.0,83.76,255,3,Not Captured,05-10-18,597,I-Medium Risk,0,0,0,0,0,0,0 - Current
+621315,62947.0,81752.0,78.29,42,3,Self employed,25-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+612048,66169.0,89370.0,76.09,29,3,Self employed,24-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+583877,56259.0,67552.0,85.12,67,6,Salaried,17-10-18,810,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+483488,55259.0,69100.0,81.04,2,4,Salaried,31-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+612627,63213.0,77516.0,82.56,16,17,Salaried,24-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+637209,69023.0,78100.0,89.88,248,4,Self employed,29-10-18,693,E-Low Risk,0,0,0,0,0,1,1-30 DPD (proxy)
+621526,72817.0,107279.0,68.98,36,13,Self employed,25-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+470983,46049.0,68183.0,70.4,14,15,Self employed,28-08-18,17,Not Scored: Not Enough Info available on the customer,0,0,0,0,0,1,1-30 DPD (proxy)
+590245,56259.0,73500.0,78.23,2,4,Salaried,20-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+550154,68387.0,86467.0,82.69,82,19,Self employed,29-09-18,18,Not Scored: No Updates available in last 36 months,0,0,0,0,0,0,0 - Current
+621504,52341.0,73050.0,73.08,138,9,Self employed,25-10-18,726,D-Very Low Risk,0,0,0,0,0,0,0 - Current
+651318,58659.0,66839.0,88.87,250,6,Salaried,31-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+652832,53303.0,68006.0,79.4,160,1,Self employed,31-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+448729,42669.0,63598.0,72.33,19,4,Self employed,20-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+457993,51517.0,65260.0,83.21,48,5,Salaried,23-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+533153,51803.0,64064.0,82.73,3,1,Salaried,24-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+623779,42710.0,71095.0,62.59,20,5,Self employed,26-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+418221,55759.0,64204.0,89.56,152,3,Salaried,01-08-18,738,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+469978,56259.0,112782.0,50.54,146,14,Salaried,28-08-18,739,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+479755,62447.0,72980.0,87.7,13,8,Salaried,30-08-18,763,B-Very Low Risk,0,0,0,0,0,0,0 - Current
+466674,62463.0,71462.0,88.86,16,14,Salaried,27-08-18,598,I-Medium Risk,1,0,1,1,0,1,31-60 DPD (proxy)
+505561,52078.0,63782.0,84.66,251,13,Self employed,14-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+519606,55259.0,72000.0,79.17,68,6,Self employed,19-09-18,465,K-High Risk,1,0,1,1,0,0,0 - Current
+582738,37739.0,63800.0,61.6,165,5,Salaried,16-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+589842,55359.0,72728.0,77.69,18,4,Self employed,20-10-18,300,M-Very High Risk,2,0,2,1,0,1,61-90 DPD (proxy)
+518187,72717.0,97400.0,76.9,20,5,Self employed,19-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+449280,32341.0,42250.0,78.58,5,9,Salaried,20-08-18,737,C-Very Low Risk,0,0,0,2,0,1,1-30 DPD (proxy)
+499402,59370.0,71086.0,85.0,36,13,Salaried,11-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+578322,44803.0,65250.0,70.5,67,6,Salaried,15-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+570693,26029.0,81206.0,33.25,7,3,Self employed,12-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+423811,63713.0,100861.0,64.45,103,7,Self employed,06-08-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+483019,45849.0,55133.0,84.89,72,11,Self employed,31-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+530883,44349.0,67009.0,68.65,159,7,Self employed,23-09-18,14,Not Scored: Only a Guarantor,1,0,1,0,0,1,31-60 DPD (proxy)
+456750,52603.0,66194.0,81.58,16,14,Salaried,22-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+447743,63969.0,97963.0,67.37,16,17,Salaried,18-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+554366,37339.0,63368.0,60.76,147,2,Salaried,30-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+538613,63647.0,72000.0,89.86,2,4,Salaried,26-09-18,703,E-Low Risk,0,0,0,0,0,0,0 - Current
+546740,74004.0,115182.0,65.11,136,8,Self employed,28-09-18,17,Not Scored: Not Enough Info available on the customer,0,0,0,0,0,0,0 - Current
+448894,54303.0,65257.0,84.28,160,1,Self employed,20-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+447366,38939.0,56360.0,70.97,202,18,Salaried,18-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+550241,56759.0,76309.0,75.35,48,5,Not Captured,29-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+474694,52303.0,60705.0,88.95,250,6,Salaried,29-08-18,16,Not Scored: No Activity seen on the customer (Inactive),0,0,0,0,0,0,0 - Current
+540805,47253.0,63568.0,78.03,7,3,Self employed,27-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+562263,52256.0,70905.0,75.0,65,13,Self employed,08-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+504678,53078.0,61144.0,89.95,250,6,Salaried,14-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+478751,48577.0,73359.0,69.93,78,4,Not Captured,30-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+521489,50928.0,69388.0,79.26,74,4,Salaried,20-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+440193,76579.0,86901.0,89.76,19,4,Salaried,16-08-18,616,H-Medium Risk,0,0,0,1,0,0,0 - Current
+582473,54113.0,68830.0,81.51,61,6,Salaried,16-10-18,468,K-High Risk,1,0,1,0,1,0,0 - Current
+478867,44145.0,64245.0,71.6,152,3,Not Captured,30-08-18,825,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+576529,39074.0,63957.0,64.11,42,3,Self employed,13-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+453825,40394.0,53440.0,78.59,152,3,Salaried,21-08-18,630,H-Medium Risk,1,0,1,0,0,0,0 - Current
+427815,14140.0,58800.0,25.51,85,4,Self employed,08-08-18,738,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+609029,60453.0,80647.0,78.12,103,7,Self employed,23-10-18,611,H-Medium Risk,0,0,0,0,0,1,1-30 DPD (proxy)
+441257,60447.0,73151.0,84.76,165,5,Self employed,16-08-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+623297,61947.0,74331.0,84.76,20,5,Salaried,26-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+638260,74251.0,112000.0,68.75,8,3,Salaried,29-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+498262,51303.0,61626.0,86.0,3,15,Salaried,10-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+458391,48738.0,62526.0,83.17,159,7,Self employed,23-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+478350,44349.0,58417.0,78.74,207,6,Salaried,30-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+593257,50003.0,68452.0,74.94,67,6,Not Captured,21-10-18,825,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+507880,64213.0,72300.0,89.9,2,4,Self employed,15-09-18,648,G-Low Risk,0,0,0,0,0,0,0 - Current
+498097,37359.0,65239.0,59.78,5,9,Salaried,10-09-18,726,D-Very Low Risk,0,0,0,0,0,0,0 - Current
+486512,46462.0,59898.0,81.3,78,4,Self employed,31-08-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+633345,41810.0,56486.0,77.9,20,5,Salaried,28-10-18,300,M-Very High Risk,2,0,2,1,0,0,0 - Current
+457866,58513.0,69500.0,86.33,135,4,Salaried,23-08-18,825,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+573289,59439.0,71442.0,85.0,136,8,Not Captured,12-10-18,599,I-Medium Risk,1,0,1,1,1,0,0 - Current
+450911,47699.0,65460.0,74.85,147,2,Salaried,20-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+426164,46165.0,65600.0,74.7,9,3,Self employed,07-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+521564,60213.0,98950.0,62.66,29,3,Self employed,20-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+448238,41694.0,92100.0,46.69,76,8,Salaried,18-08-18,600,I-Medium Risk,0,0,0,0,0,0,0 - Current
+530040,50103.0,56728.0,89.55,257,6,Self employed,23-09-18,795,B-Very Low Risk,0,0,0,0,1,0,0 - Current
+530362,69169.0,87789.0,79.74,74,4,Salaried,23-09-18,0,No Bureau History Available,0,0,0,0,1,1,1-30 DPD (proxy)
+651386,74579.0,109792.0,69.22,165,5,Salaried,31-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+565805,66669.0,85500.0,79.53,248,4,Self employed,09-10-18,738,C-Very Low Risk,0,0,0,0,0,1,1-30 DPD (proxy)
+440837,57463.0,67099.0,89.42,34,6,Salaried,16-08-18,812,A-Very Low Risk,0,0,0,0,0,0,0 - Current
+626424,76751.0,107470.0,72.58,251,13,Self employed,26-10-18,15,Not Scored: Sufficient History Not Available,0,0,0,0,0,1,1-30 DPD (proxy)
+540182,49003.0,64050.0,79.63,147,2,Salaried,27-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+491372,70067.0,86118.0,83.61,13,8,Salaried,05-09-18,399,K-High Risk,1,0,1,0,0,0,0 - Current
+533038,55513.0,71885.0,79.99,1,3,Self employed,24-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+442874,52803.0,65216.0,82.8,5,9,Self employed,16-08-18,622,H-Medium Risk,0,0,0,0,2,0,0 - Current
+431441,43394.0,63998.0,69.53,34,6,Self employed,10-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+494653,41394.0,74846.0,56.12,136,8,Self employed,07-09-18,596,I-Medium Risk,0,0,0,0,0,0,0 - Current
+578081,49683.0,70139.0,74.14,138,9,Self employed,15-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+653487,62013.0,71000.0,89.86,2,4,Self employed,31-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+473083,58013.0,66000.0,89.39,5,9,Self employed,29-08-18,681,E-Low Risk,0,0,0,0,1,1,1-30 DPD (proxy)
+540959,74023.0,103800.0,72.16,152,3,Self employed,27-09-18,17,Not Scored: Not Enough Info available on the customer,0,0,0,0,0,0,0 - Current
+498286,55599.0,75422.0,76.9,120,12,Self employed,10-09-18,738,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+538379,38439.0,64152.0,62.35,3,1,Self employed,26-09-18,825,A-Very Low Risk,0,2,2,0,0,0,0 - Current
+551442,44745.0,66405.0,69.18,1,3,Not Captured,30-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+492454,46869.0,76509.0,64.04,104,10,Self employed,06-09-18,763,B-Very Low Risk,0,0,0,0,0,0,0 - Current
+463817,43244.0,66195.0,67.98,5,9,Salaried,25-08-18,763,B-Very Low Risk,0,0,0,0,0,0,0 - Current
+576740,29484.0,67496.0,45.93,2,4,Salaried,14-10-18,629,H-Medium Risk,1,0,1,1,0,0,0 - Current
+617593,67281.0,94781.0,72.38,76,8,Salaried,25-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+495539,45349.0,70499.0,65.25,2,4,Self employed,07-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+451303,50078.0,62433.0,83.29,63,10,Self employed,20-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+647521,74451.0,101298.0,75.52,67,6,Salaried,31-10-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
+615054,53730.0,70730.0,77.76,63,10,Salaried,24-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+509241,44645.0,63596.0,72.33,18,4,Self employed,15-09-18,300,M-Very High Risk,0,0,0,0,1,0,0 - Current
+500423,50928.0,70983.0,77.48,74,4,Salaried,11-09-18,676,F-Low Risk,0,0,0,0,0,1,1-30 DPD (proxy)
+582266,41340.0,56300.0,77.26,260,8,Salaried,16-10-18,740,C-Very Low Risk,0,0,0,0,0,1,1-30 DPD (proxy)
+532008,63869.0,98945.0,65.9,36,13,Salaried,24-09-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
+470531,28541.0,59553.0,50.71,65,13,Self employed,28-08-18,738,C-Very Low Risk,0,0,0,0,0,0,0 - Current
+591833,50553.0,69233.0,75.11,202,18,Self employed,20-10-18,712,D-Very Low Risk,0,0,0,0,0,0,0 - Current
+615768,59213.0,72596.0,84.03,61,6,Self employed,24-10-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
