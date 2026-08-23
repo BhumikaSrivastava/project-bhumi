@@ -45,4 +45,3 @@ formula-driven KPI and segment reporting (SUMIFS/COUNTIFS/INDEX-MATCH, no hardco
 - `sql/clean_and_derive_npa.sql` — cleaning + NPA-bucket derivation
 - `data/sample_loan_data.csv`, `data/data_dictionary.md`
 - `excel/Loan_Book_NPA_Analysis.xlsx`
-- `screenshots/`
