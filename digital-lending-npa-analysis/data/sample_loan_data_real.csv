@@ -1,4 +1,4 @@
-loan_id,disbursed_amount,asset_cost,ltv,branch_id,state_id,employment_type,disbursal_date,bureau_score,bureau_score_desc,pri_overdue_accts,sec_overdue_accts,total_overdue_accts,delinquent_accts_6m,bureau_inquiries,loan_default,dpd_bucket
+loan id,disbursed amount,asset cost,ltv,branch id,state id,employment type,disbursal date,bureau score,bureau score desc,pri overdue accts,sec overdue accts,total overdue accts,delinquent accts 6m,bureau inquiries,loan_default,dpd_bucket
 418631,35939.0,62876.0,58.85,48,5,Salaried,01-08-18,0,No Bureau History Available,0,0,0,0,0,0,0 - Current
 528553,50891.0,61868.0,85.0,3,1,Salaried,22-09-18,0,No Bureau History Available,0,0,0,0,0,1,1-30 DPD (proxy)
 591183,52094.0,73020.0,76.01,78,4,Salaried,20-10-18,792,B-Very Low Risk,0,0,0,0,0,0,0 - Current
